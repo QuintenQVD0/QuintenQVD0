@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **https://github.com/QuintenQVD0/Q_eggs**
 
 - 🔭 I’m currently working on **https://github.com/QuintenQVD0/yolks**
-- 
+
 - 👯 I’m looking to collaborate on **https://github.com/parkervcp/eggs**
 
 <h3 align="left">Connect with me:</h3>
